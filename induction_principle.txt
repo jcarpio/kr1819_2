@@ -1,0 +1,7 @@
+
+Induction principle
+
+If we want to demonstrate a property P for
+all elements of a set S.
+
+Elements of S have to be orderable.

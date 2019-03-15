@@ -1,0 +1,47 @@
+
+Notes:
+
+
+Variables
+
+- Variable scope in Prolog in a sentence. Similar to
+  mathematics concept of a variable.
+  
+- Variables starts with a capital letter.
+  
+  Man
+  Woman
+  Person
+  X
+  
+- Free variable and instanced or non free variable
+
+  At the begining of the sentence the variable are fre,
+  after first bind the variable ar non free.
+  
+
+ Unification  (=)
+ 
+ 1. If there are no variables in terms, 
+    two terms unify if terms are identical.
+	
+ 2. If there are variables, two terms unify 
+    if is possible to find something to put 
+	inside variables that makes terms identicals.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+  
+  
+
+
+
+  
+  
+
