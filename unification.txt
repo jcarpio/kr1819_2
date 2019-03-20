@@ -1,0 +1,26 @@
+
+Unification ( = )
+
+Two term unify if 
+
+1. if there are no variables in terms, 
+   terms are identical
+    
+   examples 
+   
+   1 + 1 = 1 + 1.  -> true
+   
+   1 + 1 = 2.      -> false
+   
+   1 + 1 + 1 = (1 + 1) + 1.   -> true
+   
+   1 + 1 + 1 = 1 + (1 + 1).   -> false    
+  
+   1 + 1 = +(1, 1).   -> true
+   
+   
+ 2. if there are variables,
+    two terms unify if is possibe to replace 
+	variables for values that made terms identical.
+ 
+ 
